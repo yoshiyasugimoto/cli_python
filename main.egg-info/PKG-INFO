@@ -1,13 +1,14 @@
-Metadata-Version: 1.0
+Metadata-Version: 2.1
 Name: main
 Version: -1.0.0-
 Summary: Testing Python CLI
 Home-page: UNKNOWN
 Author: YoshiyaSugimoto
-Author-email: UNKNOWN
 License: MIT
-Description: # cli_python
-        簡易なcliを作るリポジトリ
-        #　コマンド
-        *Makefile*を参照
 Platform: UNKNOWN
+
+# cli_python
+簡易なcliを作るリポジトリ
+#　コマンド
+*Makefile*を参照
+

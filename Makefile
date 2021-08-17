@@ -1,6 +1,6 @@
 install myapp:
 	pip install -e .
 uninstall myapp:
-	pip uninstall main
+	pip uninstall -y main
 practice:
 	myapp hello world !
