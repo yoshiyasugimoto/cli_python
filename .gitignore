@@ -1,2 +1,3 @@
-./cli/__pycache__/
-./main.*
+.cli/__pycache__/
+.main.egg-info/
+.python-version
