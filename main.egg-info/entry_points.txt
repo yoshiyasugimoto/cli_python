@@ -1,3 +1,0 @@
-[console_scripts]
-myapp = cli.main:ggg
-excel = cli.create_excel
