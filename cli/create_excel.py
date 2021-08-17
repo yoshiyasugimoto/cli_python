@@ -1,8 +1,9 @@
-from openpyxl import Workbook, workbook
+from openpyxl import Workbook
 
-wb = workbook()
+def create_excel():
+    wb = Workbook()
+    
+    wb.save("Mysheet.xlsx")
 
-ws = wb.active
-
-ws = wb.create_sheet("Mysheet")
-wb.save("Mysheet.xlsx")
+if __name__== "__main__":
+    create_excel()
